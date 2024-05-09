@@ -30,9 +30,7 @@
 </div>
 
 <h3>All Current Stats</h3>
-<div width=[100%] align='center'>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsarhasanjoy1)](https://github.com/kawsarhasanjoy1/github-readme-stats)
-</div>
 
 
 <h3>Most useg language</h3>
