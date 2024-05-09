@@ -4,9 +4,9 @@
 <p>Welcome to my page! </br> I'm Kawsar Hasan joy, Mernt-stact & Full-stack developer from at mymensing in Bangladesh </p>
 <p><img alt="Banner" src="https://dev-sandbox-v1.s3.amazonaws.com/tukilogic/mern_000b887204.jpeg" /></p>
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-CB3837?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/-Css-E34F26?style=flat-square&logo=css5&logoColor=white" />
-  <img alt="Tailwind css" src="https://img.shields.io/badge/-Tailwind-E34F26?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Tailwind css" src="https://img.shields.io/badge/-Tailwind-45b8d8?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-E34F26?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Java script" src="https://img.shields.io/badge/-javascript-E34F26?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
