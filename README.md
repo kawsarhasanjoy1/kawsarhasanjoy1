@@ -29,3 +29,4 @@
   <a  href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kawsarhasanjoy1&theme=monokai-metallian&hide_border=true&border_radius=1&type=png" alt="GitHub Streak" /></a>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsarhasanjoy1)](https://github.com/kawsarhasanjoy1/github-readme-stats)
