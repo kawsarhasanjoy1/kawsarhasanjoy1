@@ -30,8 +30,7 @@
 </div>
 
 
-
- <img src="https://github-readme-stats.vercel.app/api?username=kawsarhasanjoy1"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarhasanjoy1&size_weight=0.5&count_weight=0.5&align='center')
-
+<div display='flex' justify-speace>
+   <img src="https://github-readme-stats.vercel.app/api?username=kawsarhasanjoy1"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarhasanjoy1"/>
+</div>
