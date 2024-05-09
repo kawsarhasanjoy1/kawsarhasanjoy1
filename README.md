@@ -29,4 +29,15 @@
   <a  href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kawsarhasanjoy1&theme=monokai-metallian&hide_border=true&border_radius=1&type=png" alt="GitHub Streak" /></a>
 </div>
 
+<h3>All Current Stats</h3>
+<div width=[100%] align='center'>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsarhasanjoy1)](https://github.com/kawsarhasanjoy1/github-readme-stats)
+</div>
+
+
+<h3>Most useg language</h3>
+<div width=[100%] align='center'>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarhasanjoy1a&size_weight=0.5&count_weight=0.5)
+</div>
+
+
