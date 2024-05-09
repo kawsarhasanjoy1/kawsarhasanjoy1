@@ -26,7 +26,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarhasanjoy1"/>
 <h3>Current Stats</h3>
 
-<div display='flex' justify-speace>
+<div display='flex' width='100%'>
    <div>
      <img src="https://github-readme-stats.vercel.app/api?username=kawsarhasanjoy1"/>
    </div>
