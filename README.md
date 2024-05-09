@@ -30,6 +30,8 @@
 </div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsarhasanjoy1)](https://github.com/kawsarhasanjoy1/github-readme-stats)
+<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsarhasanjoy1)](https://github.com/kawsarhasanjoy1/github-readme-stats)
+</div>
 
 
