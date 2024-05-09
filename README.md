@@ -41,5 +41,6 @@
 <h2>Contact me</h2>
 <a color='white' href="https://web.facebook.com/profile.php?viewas=100000686899395&id=100071110307696" target="_blank"><img width='20px' height='20px' src='https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png'/></a>
 <a src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://www.linkedin.com/in/alhabib55/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/alhabib5565" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
+<a href="https://www.linkedin.com/in/alhabib55/" target="_blank"><img src="![image](https://github.com/kawsarhasanjoy1/kawsarhasanjoy1/assets/121837997/9c315f0d-ec97-4b99-803d-1cba7ac52c45)
+" alt="LinkedIn" width="30"></a>
+
