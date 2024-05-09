@@ -21,18 +21,10 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <br />
-<a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
-  <table align="right">
-      <tr>
-          <td>
-            👉 &nbsp;&nbsp;Subscribe to the newsletter
-          </td>
-      </tr>
-  </table>
-</a>
 
 
-<p align="center">
+
+<p align="center" width=[100%]>
   <img aligh='center' src="https://i.imgur.com/GZHodUG.png" width="100px"/>
   <img aligh='center' src="https://i.imgur.com/GZHodUG.png" width="100px"/>
   <img aligh='center' src="https://i.imgur.com/GZHodUG.png" width="100px"/>
