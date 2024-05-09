@@ -1,4 +1,4 @@
-<h1 aligh='center'>Hey! Nice to see you.</h1>
+<h1 align='center'>Hey! Nice to see you.</h1>
 
 
 <p align='center'>Welcome to my page! </br> I'm Kawsar Hasan joy, Mernt-stact & Full-stack developer from at mymensing in Bangladesh </p>
