@@ -24,5 +24,5 @@
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kawsarhasanjoy1&theme=monokai-metallian&hide_border=true&border_radius=1&type=png" alt="GitHub Streak" /></a>
+<a align='center' href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kawsarhasanjoy1&theme=monokai-metallian&hide_border=true&border_radius=1&type=png" alt="GitHub Streak" /></a>
 
