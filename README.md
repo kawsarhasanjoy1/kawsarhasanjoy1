@@ -2,6 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Kawsar Hasan joy, Mernt-stact & Full-stack developer from at mymensing in Bangladesh </p>
+<p><img alt="Banner" src="[https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white](https://i.ibb.co/CHYy2BF/MERN-01-scaled.jpg)" /></p>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
