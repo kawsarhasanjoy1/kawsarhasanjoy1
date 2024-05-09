@@ -34,6 +34,8 @@
 
 <p align="center">
   <img aligh='center' src="https://i.imgur.com/GZHodUG.png" width="100px"/>
+  <img aligh='center' src="https://i.imgur.com/GZHodUG.png" width="100px"/>
+  <img aligh='center' src="https://i.imgur.com/GZHodUG.png" width="100px"/>
   <h3 align="center">Github Readme Streak Stats</h3>
 </p>
 
