@@ -16,16 +16,12 @@
 
 
 
-### Hi there 👋, Kawsar Hasan Joy
-#### I am Frontend developer Mernstack developer & FullStakc developer
-![I am Frontend developer Mernstack developer & FullStakc developer](https://scontent.fdac22-2.fna.fbcdn.net/v/t39.30808-6/393736443_334886782421832_6740251218270585477_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHEmSP26ZQnT834YGiw-95hxT5uk8SAN6XFPm6TxIA3pZRDsTxJ8MZLMDOCqBksrw6weAHNB-zgzMo7i5oleG4M&_nc_ohc=k9XkjCLXZ3sQ7kNvgFKZU2g&_nc_ht=scontent.fdac22-2.fna&oh=00_AYAvrXCp8ziR9koEXR4J5zfI2QbDvzIeljIOxqey1cmalw&oe=6645D1CE)
+<p><img alt="Banner" src="https://dev-sandbox-v1.s3.amazonaws.com/tukilogic/mern_000b887204.jpeg" /></p>
+<h1 align='center'>Hey! Nice to see you.</h1>
 
-Welcome to my page!
-I'm Kawsar Hasan joy, Mernt-stact & Full-stack developer from at mymensing in Bangladesh
 
-I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me contact me
-
-Skills: HTML / CSS - Tailwind css
+<p align='center'>Welcome to my page! </br> I'm Kawsar Hasan joy, Mernt-stact & Full-stack developer from at mymensing in Bangladesh </p>
+<p align='center'>I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me contact me </p>
 
 - 🔭 I’m currently working on EatSie 
 - 🌱 I’m currently learning Javascript and next.js 
