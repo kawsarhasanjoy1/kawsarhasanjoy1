@@ -24,12 +24,12 @@
 <br />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarhasanjoy1"/>
 
 
 <div >
    <div>
      <img src="https://github-readme-stats.vercel.app/api?username=kawsarhasanjoy1"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarhasanjoy1"/>
    </div>
   <h3>Current Stats</h3>
    <div>
