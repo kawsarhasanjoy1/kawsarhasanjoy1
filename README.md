@@ -16,7 +16,7 @@
 
 
 
-<p><img alt="Banner" src="https://dev-sandbox-v1.s3.amazonaws.com/tukilogic/mern_000b887204.jpeg" /></p>
+<p><img alt="Banner" src="https://i.ibb.co/VtwhPYD/Green-Professional-Gamer-Linked-In-Banner.png" /></p>
 <h1 align='center'>Hey! Nice to see you.</h1>
 
 
