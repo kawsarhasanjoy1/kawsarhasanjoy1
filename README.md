@@ -27,7 +27,7 @@
 
 
 <div >
-   <div>
+   <div display:'flex' justifyContant: 'space-btween'>
      <img src="https://github-readme-stats.vercel.app/api?username=kawsarhasanjoy1"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarhasanjoy1"/>
    </div>
