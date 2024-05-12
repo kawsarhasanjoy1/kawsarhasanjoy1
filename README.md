@@ -42,6 +42,24 @@
 
 <br/>
 
+<h1>Contact me</h1>
+
+<br/>
+
+ <p>
+          Contact phone :
+          <a target="_blank" href="#">
+            01405951898
+          </a>
+        </p>
+        <p>
+          Contact Email :
+          <a target="_blank" href="#">
+            kawsarhasanoy1234@gmail.com
+          </a>
+        </p>
+
+<br/>
 
 
 [<img src='https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png' alt='github' height='40'>](https://github.com/kawsarhasanjoy1)  [<img src='https://images.unsplash.com/photo-1611944212129-29977ae1398c?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGlua2VkaW58ZW58MHx8MHx8fDA%3D' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kawsar-hasan-joy//)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuywOjCTV38_Gl8qcgf4sSGaFrlc5EoaNgRMfHeWwZA&s' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100077015388756)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://next-lavel-portfolio.vercel.app/)  
