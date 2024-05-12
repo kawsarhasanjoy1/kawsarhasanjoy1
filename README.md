@@ -2,20 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p><img alt="Banner" src="https://i.ibb.co/VtwhPYD/Green-Professional-Gamer-Linked-In-Banner.png" /></p>
 <h1 align='center'>Hey! Nice to see you.</h1>
 
@@ -52,7 +38,22 @@
 - 💬 Ask me about web development 
 
 
+
+
+<br/>
+
+
+
 [<img src='https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png' alt='github' height='40'>](https://github.com/kawsarhasanjoy1)  [<img src='https://images.unsplash.com/photo-1611944212129-29977ae1398c?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGlua2VkaW58ZW58MHx8MHx8fDA%3D' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kawsar-hasan-joy//)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuywOjCTV38_Gl8qcgf4sSGaFrlc5EoaNgRMfHeWwZA&s' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100077015388756)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://next-lavel-portfolio.vercel.app/)  
+
+
+
+
+
+<br/>
+
+
+
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
