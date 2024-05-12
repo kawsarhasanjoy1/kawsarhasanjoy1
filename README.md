@@ -43,5 +43,29 @@
 <a src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
 <a href="https://www.linkedin.com/in/kawsar-hasan-joy-a86652287/" target="_blank"><img width='20px' height='20px'src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png" alt="LinkedIn" width="30"></a>
 
-<p>Contact phone : <a href='#'>01405951898</a></p>
-<p>Contact Email : <a href='#'>kawsarhasanoy1234@gmail.com</a></p>
+  <div style={{display:'flex' , justifyContent: 'space-between'}}>
+        <p
+          style={{
+            backgroundColor: "red",
+            color: "white",
+            padding: " 0px 10px",
+          }}
+        >
+          Contact phone :{" "}
+          <a target="_blank" href="#">
+            01405951898
+          </a>
+        </p>
+        <p
+          style={{
+            backgroundColor: "red",
+            color: "white",
+            padding: " 0px 10px",
+          }}
+        >
+          Contact Email :{" "}
+          <a target="_blank" href="#">
+            kawsarhasanoy1234@gmail.com
+          </a>
+        </p>
+      </div>
